@@ -4,6 +4,7 @@ print(a-1)
 
 def love_dicks():
     b = randint(0,3)
+    i = 100
     if b == 0:
         print(f'wow you found {b} dicks in your mouth, impressive')
     else:
